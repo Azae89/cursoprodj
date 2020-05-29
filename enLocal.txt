@@ -1,3 +1,7 @@
 Desde la PC
 
 Mis cambios en el mismo archivo desde local
+
+
+cambios que se estn relizando editan el miso archivo
+
